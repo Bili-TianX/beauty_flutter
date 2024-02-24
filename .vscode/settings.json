@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    ".*": true,
+    "build": true,
+    "android": true,
+    "ios": true,
+    "windows": true,
+    "macos": true,
+    "linux": true,
+    "web": true,
+    "*.lock": true,
+    "analysis*": true
+  },
+  "svg.preview.background": "editor"
+}
